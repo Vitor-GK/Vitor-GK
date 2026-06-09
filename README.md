@@ -1,16 +1,67 @@
-## Hi there 👋
+# 🧑‍💻 Vitor Kockhann
 
-<!--
-**Vitor-GK/Vitor-GK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`desenvolvedor back-end`**
 
-Here are some ideas to get you started:
+Me chamo Vitor Glier Kockhhan, tenho 19 anos e sou do Rio Grande do Sul.
+Concluí tanto o ensino fundamental como médio no Colégio Sinodal do Salvador. Atualmente, estou cursando Ciência da Computação na Unisinos em Porto Alegre. Para acompanhar mais de perto o que estou aprendendo e desenvolvendo, me siga no meu LinkedIn "[Vitor Glier Kockhann](https://www.linkedin.com/in/vitor-glier-kockhann-956a9b353/)"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+
+<img 
+    align="left"
+    alt="Python"
+    title="Python"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+          
+<img 
+    align="left"
+    alt="MYSQL"
+    title="MYSQL"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+          
+
+<img 
+    align="left"
+    alt="FASTAPI"
+    title="FASTAPI"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
+    />
+          
+
+<img 
+    align="left"
+    alt="SQLAlchemy"
+    title="SQLAlchemy"
+    width="80px"
+    style="padding-right: 10px; margin-top: -14px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" 
+    />
+          
+
+<img 
+    align="left"
+    alt="Git"
+    title="Git"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor-GK&show_icons=true&theme=tokyonight&include_all_commits=true)
