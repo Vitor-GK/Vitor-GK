@@ -63,17 +63,20 @@ Concluí tanto o ensino fundamental como médio no Colégio Sinodal do Salvador.
 
 ### 📊 Stats
 
-<img 
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=Vitor-GK&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
+<p>
+    <img 
+        align="left"
+        alt="GitHub Stats"
+        height="200"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api?username=Vitor-GK&show_icons=true&theme=tokyonight&locale=pt-br" 
+    />
 
 <img 
     align="left"
     alt="GitHub Stats"
     height="200"
-    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-GK&theme=tokyonight&&layout=compact&custom_title=Technologies"
+    />
+
+<p>
