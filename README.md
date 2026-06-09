@@ -7,7 +7,7 @@ Concluí tanto o ensino fundamental como médio no Colégio Sinodal do Salvador.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 
 <img 
@@ -48,7 +48,6 @@ Concluí tanto o ensino fundamental como médio no Colégio Sinodal do Salvador.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" 
     />
           
-
 <img 
     align="left"
     alt="Git"
@@ -62,6 +61,19 @@ Concluí tanto o ensino fundamental como médio no Colégio Sinodal do Salvador.
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor-GK&show_icons=true&theme=tokyonight&include_all_commits=true)
+<img 
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=Vitor-GK&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+
+<img 
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-GK&theme=tokyonight&&layout=compact&custom_title=Technologies"
