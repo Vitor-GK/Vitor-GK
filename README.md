@@ -69,7 +69,7 @@ Concluí tanto o ensino fundamental como médio no Colégio Sinodal do Salvador.
         alt="GitHub Stats"
         height="200"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=Vitor-GK&show_icons=true&theme=tokyonight&locale=pt-br" 
+        src="https://github-readme-stats.vercel.app/api?username=Vitor-GK&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" 
     />
 
 <img 
