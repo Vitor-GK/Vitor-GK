@@ -1,9 +1,9 @@
 # 🧑‍💻 Vitor Kockhann
 
-**`desenvolvedor back-end`**
+**`back-end developer`**
 
-Me chamo Vitor Glier Kockhhan, tenho 19 anos e sou do Rio Grande do Sul.
-Concluí tanto o ensino fundamental como médio no Colégio Sinodal do Salvador. Atualmente, estou cursando Ciência da Computação na Unisinos em Porto Alegre. Para acompanhar mais de perto o que estou aprendendo e desenvolvendo, me siga no meu LinkedIn "[Vitor Glier Kockhann](https://www.linkedin.com/in/vitor-glier-kockhann-956a9b353/)"
+My name is Vitor Glier Kockhann, I am 19 years old and I am from Rio Grande do Sul.
+I completed both elementary and high school at Colégio Sinodal do Salvador. Currently, I am studying Computer Science at Unisinos in Porto Alegre. To follow more closely what I am learning and developing, follow me on my LinkedIn "[Vitor Glier Kockhann](https://www.linkedin.com/in/vitor-glier-kockhann-956a9b353/)"
 
 ---
 
@@ -69,7 +69,7 @@ Concluí tanto o ensino fundamental como médio no Colégio Sinodal do Salvador.
         alt="GitHub Stats"
         height="200"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=Vitor-GK&show_icons=true&theme=tokyonight&locale=pt-br" 
+        src="https://github-readme-stats.vercel.app/api?username=Vitor-GK&show_icons=true&theme=tokyonight" 
     />
 
 <img 
@@ -79,4 +79,4 @@ Concluí tanto o ensino fundamental como médio no Colégio Sinodal do Salvador.
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-GK&theme=tokyonight&&layout=compact&custom_title=Technologies"
     />
 
-<p>
+</p>
