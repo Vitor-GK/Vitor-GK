@@ -69,14 +69,14 @@ I completed both elementary and high school at Colégio Sinodal do Salvador. Cur
         alt="GitHub Stats"
         height="200"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=Vitor-GK&show_icons=true&theme=tokyonight" 
+        src="https://github-stats-extended.vercel.app/api?username=Vitor-GK&show_icons=true&theme=tokyonight" 
     />
 
 <img 
     align="left"
     alt="GitHub Stats"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-GK&theme=tokyonight&&layout=compact&custom_title=Technologies"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vitor-GK&theme=tokyonight&&layout=compact&custom_title=Technologies"
     />
 
 </p>
